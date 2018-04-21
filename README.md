@@ -1,5 +1,5 @@
 # Diffeq_solver
-Differential equation solver
+Differential equation solver, which shows exact solution and soltions via numerical methods: Euler, Improved-Euler and Range-Kutta. Also it shows error of numerical methods.
 
 ## Screenshots:
 
